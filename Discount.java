@@ -1,0 +1,7 @@
+
+interface Discount {
+		 float getDiscount();
+
+
+		}
+
